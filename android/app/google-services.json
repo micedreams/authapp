@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349307639455",
+    "project_id": "authapp-891e7",
+    "storage_bucket": "authapp-891e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349307639455:android:9699d0ca3693d8a3b1f4aa",
+        "android_client_info": {
+          "package_name": "com.micedreams.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349307639455-6bkduf3e18t5j8cg4fuvda0fdibqf4n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgZlQmRcsbZ4A15HCeVQ6dfbSGQQjCeJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349307639455-6bkduf3e18t5j8cg4fuvda0fdibqf4n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
